@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+## My codewars progress
+![Codewars](https://www.codewars.com/users/avoreshin/badges/large) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxxbletriiiple&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)
+![Codewars](https://www.codewars.com/users/dxxbletriiiple/badges/large/?viewBox="0,0,495,40") <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxxbletriiiple&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxxbletriiiple&layout=&card_width=495&theme=radical)<br>
 
 <!--
 **dxxbletriiiple/dxxbletriiiple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
