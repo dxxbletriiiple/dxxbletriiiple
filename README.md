@@ -1,6 +1,4 @@
-### Hello there 👋
-
-## My codewars progress
+## You can see my progress down below 
 ![Codewars](https://www.codewars.com/users/dxxbletriiiple/badges/large/?viewBox="0,0,495,40") <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxxbletriiiple&show_icons=true&theme=radical)<br>
 <!-- /![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxxbletriiiple&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)<br> -->
