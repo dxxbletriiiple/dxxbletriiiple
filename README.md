@@ -2,7 +2,7 @@
 ![Codewars](https://www.codewars.com/users/dxxbletriiiple/badges/large/?viewBox="0,0,495,40") <br>
 ![dxxbletriiiple's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxxbletriiiple&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxxbletriiiple&&hide=php&layout=&card_width=495&theme=radical)<br>
-[![dxxbletriiiple's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dxxbletriiiple)](https://github.com/anuraghazra/github-readme-stats)
+[![dxxbletriiiple's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dxxbletriiiple&theme=radica)](https://github.com/anuraghazra/github-readme-stats)
 <!-- /![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxxbletriiiple&layout=compact&hide=Objective-C,Roff,Makefile&langs_count=6)<br> -->
 
 <!--
