@@ -2,8 +2,11 @@
 <br/>
 
 <p align="center">
-![Codewars](https://www.codewars.com/users/dxxbletriiiple/badges/large/?viewBox="0,0,495,40")
-</a>
+  <a href="https://www.codewars.com/users/dxxbletriiiple" target="_blank">
+    <img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/dxxbletriiiple/badges/large">
+  </a>
+</p>
+
 <br>
 
 <p align="center">
