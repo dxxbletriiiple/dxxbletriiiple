@@ -35,7 +35,7 @@
 </p>
 
 <hr>
-<h3 align="center">Show me your cards</h3>
+<h3 align="center">Stack</h3>
 <br>
 
 <p align="center">
