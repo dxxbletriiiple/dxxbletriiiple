@@ -10,11 +10,8 @@
 <br>
 
 <p align="center">
- <a target="_blank" href=https://github.com/dxxbletriiiple>
-  <img src=https://img.shields.io/github/followers/dxxbletriiiple?label=follow%20me&style=social />
-  &nbsp;
-</a>
-
+<h3 align="center">You can contact me here</h3>
+<br>
 <a target="_blank" href=https://twitter.com/dxxbletriiiple>
   <img height="30" width="30" src="https://raw.githubusercontent.com/dxxbletriiiple/dxxbletriiiple/main/repo_assets/twitter.svg" alt=""/>
   &nbsp;
@@ -73,5 +70,15 @@
 ![snake](https://raw.githubusercontent.com/dxxbletriiiple/dxxbletriiiple/main/repo_assets/github-contribution-grid-snake.svg)
 
 <br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=dxxbletriiiple" alt="blueedge"/> </p>  </p>
+<p align="center">
+  <p align="center">
+    <a target="_blank" href=https://github.com/dxxbletriiiple>
+      <img src=https://img.shields.io/github/followers/dxxbletriiiple?label=follow%20me&style=social />&nbsp;
+    </a>
+  </p>
+  <br>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dxxbletriiiple" alt="blueedge"/>
+  </p>
+</p>
 <br>
