@@ -6,12 +6,10 @@
     <img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/dxxbletriiiple/badges/large">
   </a>
 </p>
-
 <br>
-
-<p align="center">
 <h3 align="center">You can contact me here</h3>
 <br>
+<p align="center">
 <a target="_blank" href=https://twitter.com/dxxbletriiiple>
   <img height="30" width="30" src="https://raw.githubusercontent.com/dxxbletriiiple/dxxbletriiiple/main/repo_assets/twitter.svg" alt=""/>
   &nbsp;
@@ -53,19 +51,16 @@
 <br><br>
 
 <p align="center">
-
-<img width="500" src="https://metrics.lecoq.io/dxxbletriiiple" alt="Github Metrics">
-
-<br>
-
+  <img width="500" src="https://metrics.lecoq.io/dxxbletriiiple" alt="Github Metrics">
 </p>
 
 <br>
 
-| ![](https://github-readme-stats.vercel.app/api?username=dxxbletriiiple&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dxxbletriiiple&layout=compact&theme=tokyonight&hide=PHP,Objective-C,Roff,Makefile&langs_count=6) |
+| ![](https://github-readme-stats.vercel.app/api?username=dxxbletriiiple&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dxxbletriiiple&layout=compact&theme=tokyonight&hide=PHP,Objective-C,Roff,Makefile&langs_count=8) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ![](https://activity-graph.herokuapp.com/graph?username=dxxbletriiiple&theme=redical)
+
 
 ![snake](https://raw.githubusercontent.com/dxxbletriiiple/dxxbletriiiple/main/repo_assets/github-contribution-grid-snake.svg)
 
