@@ -10,7 +10,11 @@
 <br>
 <p align="center">
 <a target="_blank" href=https://twitter.com/dxxbletriiiple>
-  <img height="30" width="30" src="https://raw.githubusercontent.com/dxxbletriiiple/dxxbletriiiple/main/repo_assets/twitter.svg" alt=""/>
+  <img height="30" width="30" src="https://raw.githubusercontent.com/dxxbletriiiple/dxxbletriiiple/main/repo_assets/twitter.svg" alt="twitter"/>
+  &nbsp;
+</a>
+<a target="_blank" href=https://linkedin.com/in/dxxbletriiiple>
+  <img height="30" width="30" src="https://raw.githubusercontent.com/dxxbletriiiple/dxxbletriiiple/main/repo_assets/linkedin.svg" alt="linkedin"/>
   &nbsp;
 </a>
 <a target="_blank" href=https://dxxbletriiiple.t.me/>
@@ -60,7 +64,6 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ![](https://activity-graph.herokuapp.com/graph?username=dxxbletriiiple&theme=redical)
-
 
 ![snake](https://raw.githubusercontent.com/dxxbletriiiple/dxxbletriiiple/main/repo_assets/github-contribution-grid-snake.svg)
 
