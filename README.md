@@ -69,14 +69,6 @@
 
 <br>
 <p align="center">
-  <p align="center">
-    <a target="_blank" href=https://github.com/dxxbletriiiple>
-      <img src=https://img.shields.io/github/followers/dxxbletriiiple?label=follow%20me&style=social />&nbsp;
-    </a>
-  </p>
-  <br>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dxxbletriiiple" alt="blueedge"/>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=dxxbletriiiple" alt="blueedge"/>
 </p>
 <br>
