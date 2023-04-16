@@ -26,10 +26,12 @@
   &nbsp;
 </a>
 
-<a target="_blank" href=https://dxxbletriiiple.ru >
+<!--
+<a target="_blank" href=https://dxxbletriiiple.ru > 
   <img height="30" width="30" src="https://raw.githubusercontent.com/dxxbletriiiple/dxxbletriiiple/main/repo_assets/www.svg" fill="#fff"/>
   &nbsp;
 </a>
+-->
 </p>
 
 <hr>
