@@ -74,3 +74,10 @@
   <img src="https://komarev.com/ghpvc/?username=dxxbletriiiple" alt="blueedge"/>
 </p>
 <br>
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+	const data = document.querySelector('.AppHeader-context-item-label').textContent;
+	console.log(data);
+});
+</script>
