@@ -75,5 +75,3 @@
 </p>
 <br>
 
-<script>
-</script>
